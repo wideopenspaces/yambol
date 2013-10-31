@@ -1,7 +1,6 @@
 require 'yambol/version'
 
 module Yambol
-  class Yambol
   def self.load_file(file)
     symbolize_keys(::YAML.load_file(file))
   end
