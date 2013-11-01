@@ -1,0 +1,10 @@
+test:
+  one:
+    items:
+      - first
+      - second
+      - third
+    number: 1
+  two:
+    :symbol: cymbal
+    cymbal: :symbol
