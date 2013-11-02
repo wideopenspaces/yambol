@@ -1,6 +1,12 @@
 # Yambol
 
-TODO: Write a gem description
+[![Version](http://allthebadges.io/wideopenspaces/yambol/badge_fury.png)](http://allthebadges.io/wideopenspaces/yambol/badge_fury)
+[![Dependencies](http://allthebadges.io/wideopenspaces/yambol/gemnasium.png)](http://allthebadges.io/wideopenspaces/yambol/gemnasium)
+[![Build Status](http://allthebadges.io/wideopenspaces/yambol/travis.png)](http://allthebadges.io/wideopenspaces/yambol/travis)
+[![Coverage](http://allthebadges.io/wideopenspaces/yambol/coveralls.png)](http://allthebadges.io/wideopenspaces/yambol/coveralls)
+[![Code Climate](http://allthebadges.io/wideopenspaces/yambol/code_climate.png)](http://allthebadges.io/wideopenspaces/yambol/code_climate)
+
+Load YAML files with symbolized keys. Simple. Easy.
 
 ## Installation
 
