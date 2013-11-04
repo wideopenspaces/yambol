@@ -7,5 +7,9 @@ require 'minitest/hell'
 
 require 'minitest-spec-context'
 
-require 'coveralls'
-Coveralls.wear!
+if ENV['CI']
+  require 'coveralls'
+  Coveralls.wear! do
+    add_filter 'spec'
+  end
+end
