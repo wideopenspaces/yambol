@@ -6,3 +6,6 @@ require 'minitest/pride'
 require 'minitest/hell'
 
 require 'minitest-spec-context'
+
+require 'coveralls'
+Coveralls.wear!
