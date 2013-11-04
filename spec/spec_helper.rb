@@ -2,9 +2,7 @@ require 'yambol'
 
 if ENV['CI']
   require 'coveralls'
-  Coveralls.wear! do
-    add_filter 'spec'
-  end
+  Coveralls.wear!
 end
 
 require 'minitest'
